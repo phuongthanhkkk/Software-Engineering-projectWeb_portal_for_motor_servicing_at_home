@@ -95,8 +95,7 @@ Project wrap-up with full-stack delivery, documentation, and demo.
 
 ---
 
-**Project Repo Link:** https://motor-service-website.vercel.app/
+**Project Repo Link:** https://github.com/bachtung2003/motor-service-website
 
-**For live demo:** go to this website https://abundant-rambunctious-apple.glitch.me/
-
+**For live demo:** go to this website https://motor-service-website.vercel.app/
 
