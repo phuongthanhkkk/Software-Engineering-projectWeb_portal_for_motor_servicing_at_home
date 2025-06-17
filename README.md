@@ -44,7 +44,7 @@ These deliverables were created for the **Software Engineering (IT076IU)** cours
 
 ## 📍 Milestone 1: Proposal Submission
 
-📄 [`SE Project - Proposal - Group 3.pdf`]([SE%20Project%20-%20Proposal%20-%20Group%203.pdf](https://github.com/phuongthanhkkk/Software-Engineering-projectWeb_portal_for_motor_servicing_at_home/blob/main/SE%20Project%20-%20Proposal%20-%20Group%203.pdf))
+📄 [`SE Project - Proposal - Group 3.pdf`](https://github.com/phuongthanhkkk/Software-Engineering-projectWeb_portal_for_motor_servicing_at_home/blob/main/SE%20Project%20-%20Proposal%20-%20Group%203.pdf)
 
 ### 🔹 Description
 Initial planning and requirements analysis to define scope, objectives, and technical direction.
@@ -60,7 +60,7 @@ Initial planning and requirements analysis to define scope, objectives, and tech
 
 ## 🚧 Milestone 2: Midterm Progress Assessment
 
-📄 [`SE Project - Midterm Report - Group 3.pdf`]([SE%20Project%20-%20Midterm%20Report%20-%20Group%203.pdf](https://github.com/phuongthanhkkk/Software-Engineering-projectWeb_portal_for_motor_servicing_at_home/blob/main/SE%20Project%20-%20Midterm%20Report%20-%20Group%203.pdf))
+📄 [`SE Project - Midterm Report - Group 3.pdf`](https://github.com/phuongthanhkkk/Software-Engineering-projectWeb_portal_for_motor_servicing_at_home/blob/main/SE%20Project%20-%20Midterm%20Report%20-%20Group%203.pdf)
 
 ### 🔹 Description
 Halfway checkpoint evaluating development progress and testing framework.
@@ -76,7 +76,7 @@ Halfway checkpoint evaluating development progress and testing framework.
 
 ## ✅ Milestone 3: Final Project Completion
 
-📄 [`SE Project - Final Report - Group 3.pdf`]([SE%20Project%20-%20Final%20Report%20-%20Group%203.pdf](https://github.com/phuongthanhkkk/Software-Engineering-projectWeb_portal_for_motor_servicing_at_home/blob/main/SE%20Project%20-%20Final%20Report%20-%20Group%203.pdf))
+📄 [`SE Project - Final Report - Group 3.pdf`](https://github.com/phuongthanhkkk/Software-Engineering-projectWeb_portal_for_motor_servicing_at_home/blob/main/SE%20Project%20-%20Final%20Report%20-%20Group%203.pdf)
 
 ### 🔹 Description
 Project wrap-up with full-stack delivery, documentation, and demo.
@@ -96,6 +96,7 @@ Project wrap-up with full-stack delivery, documentation, and demo.
 ---
 
 **Project Repo Link:** https://motor-service-website.vercel.app/
+
 **For live demo:** go to this website https://abundant-rambunctious-apple.glitch.me/
 
 
